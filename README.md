@@ -22,7 +22,7 @@ To use this Clipboard History Tracker app, follow these steps:
 2. Clone this repository.
 3. Build the app by executing the following command in your terminal:
    ```
-   clang++ -fobjc-arc -framework Cocoa *.mm -o clipboard_tracker; ./clipboard_tracker
+   make all_clean
    ```
    This will open the app's graphical user interface (GUI).
 4. Keep the terminal window and GUI window open while using the app. Closing either of them will exit the app.
