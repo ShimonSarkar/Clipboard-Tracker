@@ -31,3 +31,5 @@ To use this Clipboard History Tracker app, follow these steps:
 7. The selected item will be copied back to your clipboard, ready to be pasted.
 
 Enjoy the convenience of easily accessing your clipboard history with this sleek and user-friendly app!
+
+![App Preview](assets/preview.png)
