@@ -18,15 +18,16 @@ I often found myself copying multiple things in quick succession, only to realiz
 
 To use this Clipboard History Tracker app, follow these steps:
 
-1. Clone this repository.
-2. Build the app by executing the following command in your terminal:
+1. Make sure you have Xcode and Command Line Tools installed
+2. Clone this repository.
+3. Build the app by executing the following command in your terminal:
    ```
    clang++ -fobjc-arc -framework Cocoa *.mm -o clipboard_tracker; ./clipboard_tracker
    ```
    This will open the app's graphical user interface (GUI).
-3. Keep the terminal window and GUI window open while using the app. Closing either of them will exit the app.
-4. Copy items as you normally would.
-5. When you need to find something you copied earlier, open the app and click on the desired item.
-6. The selected item will be copied back to your clipboard, ready to be pasted.
+4. Keep the terminal window and GUI window open while using the app. Closing either of them will exit the app.
+5. Copy items as you normally would.
+6. When you need to find something you copied earlier, open the app and click on the desired item.
+7. The selected item will be copied back to your clipboard, ready to be pasted.
 
 Enjoy the convenience of easily accessing your clipboard history with this sleek and user-friendly app!
